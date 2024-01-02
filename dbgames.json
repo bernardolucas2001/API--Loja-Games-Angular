@@ -1,0 +1,32 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Xbox Series S",
+      "descricao": "Xbox Mais Potente",
+      "foto": "jogo1.PNG",
+      "preco": 4000
+    },
+    {
+      "id": 2,
+      "produto": "Xbox Series S",
+      "descricao": "Descrição do jogo 2",
+      "foto": "jogo2.PNG",
+      "preco": 200
+    },
+    {
+      "id": 3,
+      "produto": "Playstation 5",
+      "descricao": "Playstation 5 é um console poderoso",
+      "foto": "jogo3.PNG",
+      "preco": 4000
+    },
+    {
+      "id": "4",
+      "produto": "Jogo Modificado",
+      "descricao": "Descrição do Jogo Modificado",
+      "foto": "jogo.4.PNG",
+      "preco": "250"
+    }
+  ]
+}
